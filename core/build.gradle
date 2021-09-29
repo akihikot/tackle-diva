@@ -73,9 +73,9 @@ java {
 publishing {
     publications {
         maven(MavenPublication) {
-            groupId = 'io.tackle'
+            groupId = 'com.github.akihikot.tackle-diva'
             artifactId = 'diva-core'
-            version = '0.0.1-SNAPSHOT'
+            version = 'jitpack-SNAPSHOT'
             from components.java
         }
     }

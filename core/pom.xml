@@ -5,14 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.tackle</groupId>
+        <groupId>com.github.akihikot.tackle-diva</groupId>
         <artifactId>diva-parent</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>jitpack-SNAPSHOT</version>
     </parent>
 
-    <groupId>io.tackle</groupId>
     <artifactId>diva-core</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Tackle-DiVA core</name>
